@@ -1,0 +1,5 @@
+---
+Ocena Gwiazdki: 0
+tytuł: działa
+tags: [Ocena]
+---
