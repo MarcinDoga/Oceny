@@ -1,21 +1,19 @@
 ---
 User Name: HP - Pavilion Gaming
-Zgłoszony Błąd: 
-Plik Log: 21.04.2023 14:21:18 - Proces AthermoBase się rozpoczął
-21.04.2023 14:21:18 - Ustawianie gier na listBox1 oraz listBox2
-21.04.2023 14:21:18 - WARN niepowodzenie ustawiania gier na listBox1 i listBox2
-21.04.2023 14:21:18 - Obliczanie systemu Xenia
-21.04.2023 14:21:18 - WARN Obliczanie systemu Xenia nieudane
-21.04.2023 14:21:18 - Sprawdzanie szybkości zegara procesora
-21.04.2023 14:21:19 - Sprawdzanie procesora
-21.04.2023 14:21:19 - Zbieranie informacji o płycie głównej
-21.04.2023 14:21:19 - Ustawianie ID gracza
-21.04.2023 14:21:19 - Twój system jest kompatybilny z aplikacją
-21.04.2023 14:21:19 - Ustawianie języka oraz zasobów aplikacji
-21.04.2023 14:21:22 - rjButton8.Click Pomoc
-21.04.2023 14:21:22 - metroButton19.Click Wypełnij Formularz zgłoszeniowy
-21.04.2023 14:21:32 - metroButton19.Click Wypełnij Formularz zgłoszeniowy
-21.04.2023 14:21:33 - metroButton19.Click Wypełnij Formularz zgłoszeniowy
+Zgłoszony Błąd: Test123
+Plik Log: 21.04.2023 14:22:20 - Proces AthermoBase się rozpoczął
+21.04.2023 14:22:20 - Ustawianie gier na listBox1 oraz listBox2
+21.04.2023 14:22:20 - WARN niepowodzenie ustawiania gier na listBox1 i listBox2
+21.04.2023 14:22:20 - Obliczanie systemu Xenia
+21.04.2023 14:22:20 - WARN Obliczanie systemu Xenia nieudane
+21.04.2023 14:22:20 - Sprawdzanie szybkości zegara procesora
+21.04.2023 14:22:21 - Sprawdzanie procesora
+21.04.2023 14:22:21 - Zbieranie informacji o płycie głównej
+21.04.2023 14:22:21 - Ustawianie ID gracza
+21.04.2023 14:22:21 - Twój system jest kompatybilny z aplikacją
+21.04.2023 14:22:21 - Ustawianie języka oraz zasobów aplikacji
+21.04.2023 14:22:23 - rjButton8.Click Pomoc
+21.04.2023 14:22:24 - metroButton19.Click Wypełnij Formularz zgłoszeniowy
 
 tags: [Błąd]
 Resolved: NO
