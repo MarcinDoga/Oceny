@@ -3,19 +3,17 @@ User Name: HP - Pavilion Gaming
 Zgłoszony Błąd: Test123
 Plik Log:
 
-21.04.2023 14:23:27 - Proces AthermoBase się rozpoczął
-21.04.2023 14:23:27 - Ustawianie gier na listBox1 oraz listBox2
-21.04.2023 14:23:27 - WARN niepowodzenie ustawiania gier na listBox1 i listBox2
-21.04.2023 14:23:27 - Obliczanie systemu Xenia
-21.04.2023 14:23:27 - WARN Obliczanie systemu Xenia nieudane
-21.04.2023 14:23:27 - Sprawdzanie szybkości zegara procesora
-21.04.2023 14:23:28 - Sprawdzanie procesora
-21.04.2023 14:23:28 - Zbieranie informacji o płycie głównej
-21.04.2023 14:23:28 - Ustawianie ID gracza
-21.04.2023 14:23:28 - Twój system jest kompatybilny z aplikacją
-21.04.2023 14:23:28 - Ustawianie języka oraz zasobów aplikacji
-21.04.2023 14:23:30 - rjButton8.Click Pomoc
-21.04.2023 14:23:30 - metroButton19.Click Wypełnij Formularz zgłoszeniowy
+06.06.2023 18:48:47 - AthermoBase process started successfully
+06.06.2023 18:48:47 - Setting games on listBox1 and listBox2
+06.06.2023 18:48:47 - Calculation of the Xenia system
+06.06.2023 18:48:47 - Check the CPU clock speed
+06.06.2023 18:48:48 - Checking the processor
+06.06.2023 18:48:48 - Collecting Motherboard Information
+06.06.2023 18:48:48 - Setting your Player ID
+06.06.2023 18:48:48 - Your system is compatible with the app
+06.06.2023 18:48:48 - Set the language and application resources
+06.06.2023 18:48:50 - rjButton8.Click Help
+06.06.2023 18:49:01 - metroButton19.Click Fill in the application form
 
 tags: [Błąd]
 Resolved: NO
