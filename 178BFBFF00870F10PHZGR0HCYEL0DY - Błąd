@@ -1,19 +1,29 @@
 ---
 User Name: HP - Pavilion Gaming
-Zgłoszony Błąd: Test 123
+Zgłoszony Błąd: test 123
 Plik Log:
 
-11.07.2023 18:16:04 - AthermoBase process started successfully
-11.07.2023 18:16:04 - Setting games on listBox1 and listBox2
-11.07.2023 18:16:04 - Calculation of the Xenia system
-11.07.2023 18:16:04 - Check the CPU clock speed
-11.07.2023 18:16:05 - Checking the processor
-11.07.2023 18:16:05 - Collecting Motherboard Information
-11.07.2023 18:16:05 - Setting your Player ID
-11.07.2023 18:16:05 - Your system is compatible with the app
-11.07.2023 18:16:05 - Set the language and application resources
-11.07.2023 18:16:07 - rjButton8.Click Help
-11.07.2023 18:16:17 - metroButton19.Click Fill in the application form
+22.10.2023 10:47:48 - AthermoBase process started successfully
+22.10.2023 10:47:48 - Setting games on listBox1 and listBox2
+22.10.2023 10:47:48 - WARN failed to set games on listBox1 and listBox2
+22.10.2023 10:47:48 - Calculation of the Xenia system
+22.10.2023 10:47:48 - WARN System calculation Xenia failed
+22.10.2023 10:47:49 - Check the CPU clock speed
+22.10.2023 10:47:50 - Checking the processor
+22.10.2023 10:47:50 - Collecting Motherboard Information
+22.10.2023 10:47:50 - Setting your Player ID
+22.10.2023 10:47:50 - Your system is compatible with the app
+22.10.2023 10:47:50 - Set the language and application resources
+22.10.2023 10:47:51 - Player AutoComplete true
+22.10.2023 10:47:51 - Check your graphics card
+22.10.2023 10:47:52 - Sending Collected Information
+22.10.2023 10:47:55 - rjButton7.Click Settings
+22.10.2023 10:47:56 - metroButton23.Click Application Colors and Modes
+22.10.2023 10:47:59 - metroButton32.Click Advanced
+22.10.2023 10:48:00 - metroButton31.Click For Developers
+22.10.2023 10:48:01 - rjButton8.Click Help
+22.10.2023 10:48:03 - metroButton19.Click Fill in the application form
+22.10.2023 10:48:07 - metroButton19.Click Fill in the application form
 tags: [Błąd]
 Resolved: NO
 message
